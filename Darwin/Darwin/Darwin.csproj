@@ -33,7 +33,7 @@
     <PublishUrl>C:\Users\ZoomRx\VBA_DARWIN\published\</PublishUrl>
     <InstallUrl>https://raw.githubusercontent.com/mariselvanksr/VBA_DARWIN/main/published/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.11</ApplicationVersion>
+    <ApplicationVersion>1.0.0.13</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
@@ -225,10 +225,11 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Darwin_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>E52DBA5DFEBADAFA890C02021D2E53F42998BABA</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>24B13143E35FB42EA0F7E942B639AA0BE8816B4D</ManifestCertificateThumbprint>
   </PropertyGroup>
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
