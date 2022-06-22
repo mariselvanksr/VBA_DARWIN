@@ -1,0 +1,13 @@
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\bin\Debug\Darwin.dll
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\bin\Debug\Darwin.pdb
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\bin\Debug\Darwin.dll.manifest
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\bin\Debug\Darwin.vsto
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.csproj.AssemblyReference.cache
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.Properties.Resources.resources
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.Ribbon1.resources
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.csproj.GenerateResource.cache
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.csproj.CoreCompileInputs.cache
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.csproj.CopyComplete
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.dll
+C:\Users\ZoomRx\Desktop\VBA_DARWIN\Darwin\Darwin\obj\Debug\Darwin.pdb
