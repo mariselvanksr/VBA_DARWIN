@@ -2,4 +2,5 @@
 *.application binary
 *.deploy binary
 *.VSTO binary
+*.vsto binary
 *  -text

@@ -30,16 +30,16 @@
     <DefineConstants>VSTO40</DefineConstants>
     <IsWebBootstrapper>True</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>C:\Users\ZoomRx\Desktop\VBA_DARWIN\published\</PublishUrl>
+    <PublishUrl>C:\Users\ZoomRx\VBA_DARWIN\published\</PublishUrl>
     <InstallUrl>https://github.com/mariselvanksr/VBA_DARWIN/blob/main/published/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.7</ApplicationVersion>
+    <ApplicationVersion>1.0.0.9</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
     <UpdateIntervalUnits>days</UpdateIntervalUnits>
     <ProductName>Darwin</ProductName>
-    <PublisherName>Vignesh</PublisherName>
+    <PublisherName>Mari</PublisherName>
     <SupportUrl />
     <FriendlyName>Darwin</FriendlyName>
     <OfficeApplicationDescription />
