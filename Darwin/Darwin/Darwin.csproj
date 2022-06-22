@@ -31,9 +31,9 @@
     <IsWebBootstrapper>True</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <PublishUrl>C:\Users\ZoomRx\VBA_DARWIN\published\</PublishUrl>
-    <InstallUrl>https://github.com/mariselvanksr/VBA_DARWIN/blob/main/published/</InstallUrl>
+    <InstallUrl>https://raw.githubusercontent.com/mariselvanksr/VBA_DARWIN/main/published/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.9</ApplicationVersion>
+    <ApplicationVersion>1.0.0.10</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
